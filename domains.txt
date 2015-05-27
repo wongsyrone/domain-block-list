@@ -44,6 +44,7 @@
 9w9.org
 PerfSpot.com
 abchinese.com
+ablwang.com
 aboluowang.com
 accounts.blogger.com
 accounts.google.com
@@ -176,6 +177,7 @@ blogcatalog.com
 blogger.com
 blogger.com.br
 blogger.google.com
+blogimg.jp
 bloglovin.com
 blogsearch.google.com
 blogsearch.google.com.hk
@@ -189,6 +191,7 @@ blogspot.jp
 bloomberg.cn
 bloomberg.com
 bloomberg.com.br
+bloombergbusiness.com
 blueangellive.com
 bodog88.com
 bond-adventures.com
@@ -491,6 +494,7 @@ duckduckgo.com
 dudu.com.cn
 duga.jp
 duping.net
+dw-world.com
 dw-world.de
 dw.de
 dwnews.com
@@ -507,6 +511,7 @@ econ.st
 edgecastcdn.net
 edgesuite.net
 edicypages.com
+edigitalsurvey.com
 edmontonchina.cn
 efukt.com
 egyig.com
@@ -635,6 +640,7 @@ fring.com
 fromchinatousa.net
 frontlinedefenders.org
 fsdn.com
+ftchinese.com
 funf.tw
 funp.com.tw
 fusion.google.com
@@ -861,6 +867,7 @@ istockphoto.com
 isunaffairs.com
 itshidden.com
 iuksky.com
+ixiaa.com
 izlesem.org
 izlesene.com
 jamaat.org
@@ -1024,6 +1031,7 @@ milsurps.com
 minghui-a.org
 minghui.org
 minghui.tv
+mingjingnews.com
 mingpao.com
 mingpaonews.com
 minhhue.net
@@ -1342,6 +1350,7 @@ relakks.com
 renminbao.com
 renyurenquan.org
 retweetrank.com
+reuters.com
 reviewcentre.com
 reviveourhearts.com
 revleft.com
@@ -1357,6 +1366,7 @@ rssmeme.com
 rtbot.net
 rthk.hk
 rthk.org.hk
+rti.org.tw
 rtmp0.google.com
 rtmp1.google.com
 rtmp2.google.com
@@ -1392,6 +1402,7 @@ scholar.google.com.tw
 schooltunnel.net
 scmp.com
 scmpchinese.com
+scorecardresearch.com
 scribd.com
 script.google.com
 se-duc-tive.com
@@ -1713,6 +1724,7 @@ twylah.com
 tycool.com
 ubervu.com
 udn.com
+udn.com.tw
 ufreevpn.com
 ugo.com
 uhrp.org
