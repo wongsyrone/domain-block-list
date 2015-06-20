@@ -168,6 +168,7 @@ blackvpn.com
 blinkx.com
 blockcn.com
 blockedsiteaccess.com
+blog.conviso.com.br
 blog.google.org
 blog.sina.com.tw
 blog.webmproject.org
@@ -869,6 +870,7 @@ iuksky.com
 ixiaa.com
 izlesem.org
 izlesene.com
+j.mp
 jamaat.org
 jams.kir.jp
 japanesesportcars.com
@@ -1081,6 +1083,7 @@ mts8.google.com
 mts9.google.com
 muchosucko.com
 mullvad.net
+multiplayerforums.com
 multiproxy.org
 multiupload.com
 mummysgold.com
@@ -1607,6 +1610,7 @@ tibetonline.tv
 timdir.com
 timsah.com
 tintuc101.com
+tiny.cc
 tinychat.com
 tinypic.com
 tinysubversions.com
