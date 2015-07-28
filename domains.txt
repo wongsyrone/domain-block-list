@@ -49,15 +49,15 @@ accounts.blogger.com
 accounts.google.com
 accounts.google.com.hk
 aceros-de-hispania.com
-acevpn.com
 acs-nccu.org
 actufacebook.com
+admin.google.com
+ads.google.com
 adultfriendfinder.com
 adwords.google.com
 adwords.google.sk
 afddy.com
 airsoftpark.com
-airvpn.org
 akahoshitakuya.com
 akamaihd.net
 allasians.com
@@ -129,7 +129,6 @@ bajaryoutube.com
 ballpure.com
 bananaman.kir.jp
 bannedbook.org
-bartvpn.com
 bayvoice.net
 bbc.co.uk
 bbg.gov
@@ -140,13 +139,10 @@ bbtoystore.com
 bcast.co.nz
 bdsmvideos.net
 beaconevents.com
-beevpn.com
 behindkink.com
 berlintwitterwall.com
 berm.co.nz
 bestofyoutube.com
-bestukvpn.com
-bestvpnservice.com
 bestyoutubeproxy.info
 bet365.com
 betbase1.info
@@ -164,7 +160,6 @@ bitshare.com
 bizhat.com
 bjnewlife.org
 bjzc.org
-blackvpn.com
 blinkx.com
 blockcn.com
 blockedsiteaccess.com
@@ -231,7 +226,6 @@ cablenews.i-cable.com
 cache.pack.google.com
 cachvaofacebook.com
 cacnw.com
-cactusvpn.com
 cafepress.com
 cafepress.com.au
 calendar.google.com
@@ -286,8 +280,6 @@ celebritymovieblog.com
 centurys.net
 cfhks.org.hk
 change.org
-chart.apis.google.com
-cheapvpn.org
 checkout.google.com
 china-labour.org.hk
 china101.com
@@ -330,6 +322,7 @@ clearharmony.net
 clearwisdom.net
 click.xda-developers.com
 client-channel.google.com
+client.google.com
 clients.google.com
 clients0.google.com
 clients0.google.com.hk
@@ -380,6 +373,7 @@ code.google.com
 colormyfacebook.com
 comefromchina.com
 commandarms.com
+contributor.google.com
 coobai.com
 coobay.com
 cool18.com
@@ -399,10 +393,10 @@ crackle.com.ve
 crd-net.org
 creaders.net
 crocoguide.com
+cse.google.com
 cts.com.tw
 cwahi.net
 cyberghost.natado.com
-cyberghostvpn.com
 dabr.mobi
 dadazim.com
 dailymotion.com
@@ -446,6 +440,7 @@ discuss.com.hk
 disp.cc
 ditu.google.com
 djorz.com
+dl-ssl.google.com
 dmm.co.jp
 dmm.com
 dns2go.com
@@ -464,6 +459,7 @@ docs8.google.com
 docs9.google.com
 dolc.de
 domain4ik.ru
+domains.google.com
 domains.googlesyndication.com
 dongtaiwang.com
 dotnettwitter.com
@@ -473,7 +469,6 @@ downfacebook.com
 dracoola.org
 dragtimes.com
 dreamcheeky.com
-dreamvpn.us
 drive.google.com
 drive0.google.com
 drive1.google.com
@@ -485,7 +480,6 @@ drive6.google.com
 drive7.google.com
 drive8.google.com
 drive9.google.com
-droidvpn.com
 dropbox.com
 dropboxstatic.com
 dropboxusercontent.com
@@ -557,13 +551,11 @@ eroshinbo.com
 eroticsaloon.net
 eucasino.com
 eulam.com
+events.google.com
 evernote.com
 everythingtwitter.com
 expekt.com
 experts-univers.com
-expressvpn.biz
-expressvpn.com
-expressvpn.info
 extmatrix.com
 extremetube.com
 eyevio.jp
@@ -593,14 +585,13 @@ fc2.com
 feathersite.com
 feedburner.com
 feedburner.google.com
-feedly.com
 feedproxy.google.com
 feeds.feedburner.com
 feeds2.feedburner.com
 feedsportal.com
-fffff.at
 fgmtv.net
 fgmtv.org
+fi.google.com
 fiberprox.eu
 fileflyer.com
 filthdump.com
@@ -611,25 +602,15 @@ flagsonline.it
 flamefans.com
 fleshbot.com
 flickr.com
-flyvpn.com
 fmnnow.com
-focusvpn.com
-fooooo.com
-forum.sina.com.hk
 fpmt.org
-free-ssh.com
-free-web-proxy.de
 freedl.org
 freedom-ip.com
 freedomhouse.org
 freelancer.com
 freenetproject.org
 freeoda.com
-freeopenvpn.com
 freeoz.org
-freeproxy.net
-freeproxyserver.ca
-freeproxyserver.net
 freesafeip.com
 freetibet.org
 freeweibo.com
@@ -656,8 +637,8 @@ gamerseden.kir.jp
 gamousa.com
 gardennetworks.com
 gates.com
-gaybookstar.com
 gcpnews.com
+gcr.io
 gdzf.org
 geoauth.google.com
 german-proxy.de
@@ -709,12 +690,14 @@ googleadservices.com
 googleapis-ajax.google.com
 googleapis.com
 googlecode.com
+googledrive.com
 googlegroups.com
 googlehosted.com
 googlelabs.com
 googlemail.com
 googlemashups.com
 googlesource.com
+googlestore.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -733,8 +716,6 @@ gravatar.com
 greatfire.org
 greatfirewallofchina.org
 greatroc.org
-greenvpn.net
-grjsq.biz
 group-facials.com
 groups-beta.google.com
 groups.google.com
@@ -769,7 +750,6 @@ hentaimedia.com
 hentaitube.tv
 hentaivideoworld.com
 hidden-advent.org
-hideipvpn.com
 hideman.net
 hideme.be
 hidemyass.com
@@ -777,6 +757,7 @@ hidemyipaddress.org
 hideweb.org
 hilive.tv
 himalayanglacier.com
+history.google.com
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -796,7 +777,6 @@ hotfrog.com.tw
 hotgamesforgirls.com
 hotgoo.com
 hotspotshield.com
-hotvpn.com
 howtodownloadmusicfromyoutube.com
 hqmovies.com
 hrea.org
@@ -813,7 +793,6 @@ hussytube.com
 hutong9.net
 huyandex.com
 iblist.com
-ibvpn.com
 icams.com
 id.google.com
 id.google.com.hk
@@ -828,6 +807,7 @@ igmg.de
 igossip.com
 igotmail.com.tw
 im88.tw
+image.google.com
 imageflea.com
 imagenparaelfacebook.com
 images.google.com
@@ -869,6 +849,7 @@ isunaffairs.com
 itshidden.com
 iuksky.com
 ixiaa.com
+ixquick.com
 izlesem.org
 izlesene.com
 j.mp
@@ -898,12 +879,12 @@ journalchretien.net
 jp.hao123.com
 juegosdefacebook.com
 jumav.com
-justfreevpn.com
 justpaste.it
 kanzhongguo.com
 kaotic.com
 kcoolonline.com
 kebrum.com
+keep.google.com
 keepyoutube.com
 kenengba.com
 kepard.com
@@ -999,7 +980,6 @@ m.google.com.hk
 m.googlemail.com
 m88a.com
 macauslot.com
-macrovpn.com
 macys.com
 magiccloak.net
 maiio.net
@@ -1012,6 +992,7 @@ map.google.com
 maps.google.com
 maps.google.com.hk
 maps.google.com.tw
+mapsengine.google.com
 markacadey.net
 market.android.com
 mars.google.com
@@ -1019,6 +1000,7 @@ mars99.com
 marxist.com
 mcfog.com
 mcreasite.com
+mediawiki.org
 mefeedia.com
 megaproxy.com
 melhoresdoyoutube.com
@@ -1105,6 +1087,7 @@ mw9.google.com
 mxplayer.j2inter.com
 my-private-network.co.uk
 my-proxy.com
+myaccount.google.com
 myaudiocast.com
 myca168.com
 mycould.com
@@ -1149,7 +1132,6 @@ ngensis.com
 ngrams.googlelabs.com
 nicotwitter.com
 nicovideo.jp
-nlfreevpn.com
 nlog.cc
 noblecasino.com
 nps.gov
@@ -1187,7 +1169,6 @@ onthehunt.com
 ooo-sex.com
 open.com.hk
 opendemocracy.net
-openervpn.eu
 openvpn.net
 openwall.com
 orgfree.com
@@ -1232,6 +1213,7 @@ pchome.com.tw
 pdproxy.com
 peacefire.org
 peacehall.com
+peering.google.com
 pekingduck.org
 penchinese.net
 penchinese.org
@@ -1239,7 +1221,6 @@ penisbot.com
 penthousebabesworld.com
 percy.in
 perfectgirls.net
-perfectvpn.net
 perfspot.com
 phapluan.org
 phayul.com
@@ -1256,6 +1237,7 @@ picidae.net
 pimpmyip.com
 piraattilahti.org
 pixnet.net
+pki.google.com
 places.google.com
 play.google.com
 playvid.com
@@ -1326,7 +1308,6 @@ pubu.com.tw
 puffinbrowser.com
 purchasefollowersontwitter.com
 pureinsight.org
-purevpn.com
 pussy.org
 puuko.com
 python.com
@@ -1352,6 +1333,7 @@ recaptcha.net
 redtube.com
 referer.us
 relakks.com
+relay.google.com
 renminbao.com
 renyurenquan.org
 retweetrank.com
@@ -1415,6 +1397,7 @@ searchtruth.com
 secretchina.com
 secretsline.biz
 secure.freeyellow.com
+security.google.com
 securitykiss.com
 service.urchin.com
 services.google.com
@@ -1460,7 +1443,6 @@ sites.google.com
 sketchup.google.com
 skimtube.com
 slaytizle.com
-slickvpn.com
 slideshare.net
 slyuser.com
 smarthosts.googlecode.com
@@ -1469,6 +1451,7 @@ smhric.org
 smtp-out.google.com
 smtp-out3.google.com
 smtp1.google.com
+smtp2.google.com
 smtp3.google.com
 sndcdn.com
 snowpear.com
@@ -1516,6 +1499,7 @@ sthoo.com
 stickam.com
 stileproject.com
 stopchildpornonfacebook.com
+store.google.com
 stranabg.com
 streamie.org
 streamtwitter.com
@@ -1527,16 +1511,13 @@ sugarsync.com
 suggestqueries.google.com
 sumrando.com
 sunporno.com
-superfreevpn.com
 supertweet.net
-supervpn.net
 support.google.com
 suprememastertv.com
 surfeasy.com.au
 surfert.nl
 susjed.com
 swagbucks.com
-swissvpn.net
 sydneytoday.com
 sysresccd.org
 sytes.net
@@ -1588,7 +1569,6 @@ thechinabeat.org
 theepochtimes.com
 thefacebook.com
 thefacebookproxy.com
-thefreevpn.com
 theguardian.com
 thehousenews.com
 theninjaproxy.org
@@ -1674,7 +1654,6 @@ turbobit.net
 turbohide.com
 tushycash.com
 tusjuegosparafacebook.com
-tuvpn.com
 tv.com
 tv.com.pk
 tv.on.cc
@@ -1731,7 +1710,6 @@ tycool.com
 ubervu.com
 udn.com
 udn.com.tw
-ufreevpn.com
 ugo.com
 uhrp.org
 uighurbiz.net
@@ -1740,11 +1718,9 @@ ukliferadio.co.uk
 ultrareach.net
 ultrasurf.us
 ultrasurfing.com
-ultravpn.fr
 ultraxs.com
 unblock-us.com
 unblockthatsite.net
-unblockvpn.com
 unblockyoutube.co.uk
 unblockyoutube.com
 uncyclomedia.org
@@ -1758,6 +1734,7 @@ unpo.org
 upholdjustice.org
 upload.docs.google.com
 upload.drive.google.com
+upload.google.com
 uploaded.net
 uploads.code.google.com
 ur7s.com
@@ -1779,7 +1756,6 @@ vegasred.com
 velkaepocha.sk
 venchina.com
 veoh.com
-versavpn.com
 vft.com.tw
 viber.com
 video.google.com
@@ -1808,7 +1784,6 @@ vot.org
 vovo2000.com
 vovokan.com
 voy.com
-vpnfire.com
 vtunnel.com
 vuku.ru
 vworldc.com
@@ -1859,15 +1834,25 @@ whoownsfacebook.com
 whotalking.com
 wifemovies.net
 wifi.google.com
+wikibooks.org
+wikidata.org
 wikidot.com
 wikileaks.org
 wikimedia.org
+wikimediafoundation.org
+wikinews.org
 wikipedia.com
 wikipedia.org
+wikiquote.org
+wikisource.org
+wikiversity.org
+wikivoyage.org
 wiksa.com
+wiktionary.org
 wildammo.com
 williamhillpoker.com
 wireshark.org
+withgoogle.com
 witopia.net
 wixoo.com
 wolfax.com
@@ -1876,7 +1861,6 @@ wordpress.com
 workerdemo.org.hk
 worldcat.org
 worldjournal.com
-worldvpn.net
 wow-life.net
 wp.com
 wpmudev.org
@@ -1992,7 +1976,6 @@ youpai.org
 youporn.com
 your-freedom.net
 yourlust.com
-yourprivatevpn.com
 youtu.be
 youtube-mp3.com
 youtube-nocookie.com
