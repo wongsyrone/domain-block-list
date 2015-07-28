@@ -661,6 +661,7 @@ gcpnews.com
 gdzf.org
 geoauth.google.com
 german-proxy.de
+getchu.com
 getfoxyproxy.org
 getiton.com
 getlantern.org
@@ -1188,6 +1189,7 @@ open.com.hk
 opendemocracy.net
 openervpn.eu
 openvpn.net
+openwall.com
 orgfree.com
 orientaldaily.com.my
 orientaldaily.on.cc
