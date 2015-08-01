@@ -661,6 +661,8 @@ github.io
 githubapp.com
 githubusercontent.com
 gizlen.net
+global-ssl.fastly.net
+global.ssl.fastly.net
 globalmediaoutreach.com
 globalvoicesonline.org
 glock.com
