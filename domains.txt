@@ -277,6 +277,7 @@ cdp1998.org
 cdpweb.org
 celebritymovieblog.com
 centurys.net
+certificate-transparency.org
 cfhks.org.hk
 change.org
 checkout.google.com
@@ -490,6 +491,7 @@ duga.jp
 duping.net
 dw-world.com
 dw-world.de
+dw.com
 dw.de
 dwnews.com
 dwnews.net
@@ -983,6 +985,7 @@ m.googlemail.com
 m88a.com
 macauslot.com
 macys.com
+maddw.com
 magiccloak.net
 maiio.net
 mail-archive.com
@@ -1132,6 +1135,7 @@ next11.co.jp
 nextmedia.com
 ngensis.com
 ngrams.googlelabs.com
+nhentai.net
 nicotwitter.com
 nicovideo.jp
 nlog.cc
