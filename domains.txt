@@ -325,6 +325,7 @@ cn6.eu
 cna.com
 cna.com.tw
 cnd.org
+cnn.com
 cocolog-nifty.com
 code.google.com
 colormyfacebook.com
@@ -449,6 +450,7 @@ dw.de
 dwnews.com
 dwnews.net
 dz3w.com
+e-hentai.org
 earth.google.com
 earthengine.googlelabs.com
 easybranches.com
@@ -534,6 +536,7 @@ fashionhotbox.com
 favotter.net
 favstar.fm
 fawanghuihui.org
+fb.me
 fbcdn.net
 fc2.com
 feathersite.com
