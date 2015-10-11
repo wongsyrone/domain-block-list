@@ -557,6 +557,7 @@ flamefans.com
 fleshbot.com
 flickr.com
 fmnnow.com
+forums.freenas.org
 fpmt.org
 freedl.org
 freedom-ip.com
@@ -1721,6 +1722,7 @@ wantyoutube.com
 washeng.net
 watchinese.com
 wattpad.com
+wav.tv
 wave.google.com
 wave1.google.com
 wearehairy.com
