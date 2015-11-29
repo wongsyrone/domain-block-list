@@ -66,6 +66,7 @@ appledaily.com.tw
 apps.google.com
 appspot.com
 archive.org
+archlinuxarm.org
 artifacts.com.tw
 artwitter.com
 asahichinese.com
