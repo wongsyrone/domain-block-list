@@ -44,3 +44,28 @@ do
 		echo "server=/$SingleDomain/${dnsserver}">>$ConfFile
 	}
 done
+
+## append special ipset to Conffile, we don't have to exclude dl.google.com anymore
+# this will not add domains to ipset list, pls refer to dnsmasq manpage
+echo "#### Bypass ipset domains">>$ConfFile
+#echo "ipset=/dl.google.com/#">>$ConfFile
+cat <<'EOF' | while read BypassIpsetDomain
+265.com
+2mdn.net
+csi.gstatic.com
+dl.google.com
+doubleclick.net
+fonts.googleapis.com
+fonts.gstatic.com
+google-analytics.com
+googleadservices.com
+googleanalytics.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+mediavisor.doubleclick.com
+EOF
+do
+    echo "ipset=/$BypassIpsetDomain/#" >>$ConfFile
+done
+
