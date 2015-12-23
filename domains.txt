@@ -174,7 +174,6 @@ anpopo.com
 answering-islam.org
 antd.org
 anthonycalzadilla.com
-anti.anti.cnn.googlepages.com
 antidrm.hpg.ig.com.br
 antiwave.net
 anying.ca
@@ -522,7 +521,6 @@ businesstimes.com.cn
 businessweek.com
 busytrade.com
 buugaa.com
-buy.yahoo.com.tw
 buzzhand.com
 buzztter.com
 buzzurl.jp
@@ -1287,7 +1285,6 @@ freedomcollection.org
 freedomhouse.org
 freeforums.org
 freegao.com
-freegateget.googlepages.com
 freelancer.com
 freelotto.com
 freeman2.com
@@ -1385,6 +1382,7 @@ geek-art.net
 geekerhome.com
 geekmade.co.uk
 geekmanuals.com
+gelbooru.com
 generesis.com
 gentlecuff.com
 genuitec.com
@@ -1673,7 +1671,6 @@ greenpeace.org
 greenvpn.net
 group-facials.com
 gs-discuss.com
-gsamplemaps.googlepages.com
 gstatic.com
 gtricks.com
 gu-chu-sum.org
@@ -1774,13 +1771,6 @@ hk-pub.com
 hk.geocities.com
 hk.gradconnection.com
 hk.jiepang.com
-hk.knowledge.yahoo.com
-hk.myblog.yahoo.com
-hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com
-hk.video.news.yahoo.com
-hk.yahoo.com
 hk32168.com
 hkatvnews.com
 hkbc.net
@@ -2108,7 +2098,6 @@ kiwi.kz
 klip.me
 kmt.org.tw
 knightmaster.kir.jp
-knowledge.yahoo.com
 knowledgerush.com
 kodingen.com
 kokoro.kir.jp
@@ -2336,7 +2325,6 @@ megurineluka.com
 meirixiaochao.com
 melhoresdoyoutube.com
 melon-peach.com
-meme.yahoo.com
 memehk.com
 memrijttm.org
 menover30.com
@@ -2465,7 +2453,6 @@ my.opera.com
 myactimes.com
 myaudiocast.com
 myav.com.tw
-myboooks.googlepages.com
 myca168.com
 mychinamyhome.com
 mycould.com
@@ -2661,7 +2648,6 @@ openleaks.org
 openvpn.net
 openwall.com
 openwebster.com
-openwrt.org
 opml.radiotime.com
 opnir.com
 orchidbbs.com
@@ -2699,7 +2685,6 @@ packages.debian.org
 packetix.net
 paddle.com
 padmanet.com
-page.bid.yahoo.com
 page2rss.com
 pagodabox.com
 paid2youtube.com
@@ -2895,7 +2880,6 @@ pubu.com.tw
 puffinbrowser.com
 puffstore.com
 pullfolio.com
-pulse.yahoo.com
 purchasefollowersontwitter.com
 pure18.com
 pureconcepts.net
@@ -3669,12 +3653,8 @@ tw-npo.org
 tw.gigacircle.com
 tw.hao123.com
 tw.jiepang.com
-tw.knowledge.yahoo.com
-tw.myblog.yahoo.com
-tw.news.yahoo.com
 tw.streetvoice.com
 tw.voa.mobi
-tw.yahoo.com
 tw01.org
 twa.sh
 twaitter.com
@@ -3832,7 +3812,6 @@ unknownspace.org
 unodedos.com
 unpo.org
 uocn.org
-upcoming.yahoo.com
 upholdjustice.org
 upload.wikimedia.org
 upload4u.info
@@ -3908,7 +3887,6 @@ video.ap.org
 video.fdbox.com
 video.foxbusiness.com
 video.tiscali.it
-video.yahoo.com
 videobam.com
 videodetective.com
 videomega.tv
@@ -4243,6 +4221,7 @@ xys.org
 xysblogs.org
 xyy69.com
 xyy69.info
+yahoo.com
 yahoo.com.hk
 yakbutterblues.com
 yam.com
