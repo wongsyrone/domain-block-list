@@ -64,6 +64,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 mediavisor.doubleclick.com
+redirector.gvt1.com
 EOF
 do
     echo "ipset=/$BypassIpsetDomain/#" >>$ConfFile
