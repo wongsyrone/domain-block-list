@@ -394,6 +394,7 @@ billypan.com
 billywr.com
 binaryage.com
 bind2.com
+bintray.com
 bipic.net
 birdsontwitter.com
 bit.ly
@@ -3413,6 +3414,7 @@ say2.info
 sbnation.com
 sbobet.com
 sbs.com.au
+scala-sbt.org
 scalatest.org
 scasino.com
 schema.org
@@ -4192,6 +4194,7 @@ tycool.com
 tynsoe.org
 typekit.net
 typepad.com
+typesafe.com
 tzangms.com
 ub0.cc
 uberproxy.net
@@ -4533,6 +4536,7 @@ wisdompubs.org
 wisevid.com
 wistia.com
 wistia.net
+withgoogle.com
 witnessleeteaching.com
 witopia.net
 wiwo.de
@@ -4633,6 +4637,7 @@ xcritic.com
 xfm.pp.ru
 xgmyd.com
 xhamster.com
+xhcdn.com
 xianqiao.net
 xiaochuncnjp.com
 xiaohexie.com
