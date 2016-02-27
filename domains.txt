@@ -1807,6 +1807,7 @@ google.vu
 google.ws
 googleadservices.com
 googleapis.com
+googleapps.com
 googleartproject.com
 googlecode.com
 googlecommerce.com
@@ -2255,6 +2256,7 @@ japanfirst.asianfreeforum.com
 jappydolls.net
 javbus.com
 javfor.me
+javhub.net
 javlibrary.com
 javpee.com
 javseeds.com
