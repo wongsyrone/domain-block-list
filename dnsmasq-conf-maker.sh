@@ -52,6 +52,10 @@ echo "#### Bypass ipset domains">>$ConfFile
 cat <<'EOF' | while read BypassIpsetDomain
 265.com
 2mdn.net
+beacons.gvt2.com
+beacons3.gvt2.com
+c.android.clients.google.com
+cache.pack.google.com
 csi.gstatic.com
 dl.google.com
 doubleclick.net
@@ -63,8 +67,21 @@ googleanalytics.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
+kh.google.com
+khm.google.com
+khm0.google.com
+khm1.google.com
+khm2.google.com
+khm3.google.com
+khmdb.google.com
 mediavisor.doubleclick.com
 redirector.gvt1.com
+safebrowsing-cache.google.com
+toolbarqueries.google.co.jp
+toolbarqueries.google.co.kr
+toolbarqueries.google.com
+toolbarqueries.google.com.hk
+toolbarqueries.google.com.tw
 EOF
 do
     echo "ipset=/$BypassIpsetDomain/#" >>$ConfFile
