@@ -117,6 +117,7 @@ advertfan.com
 aenhancers.com
 af.mil
 agoogleaday.com
+ahcdn.com
 aiph.net
 aisex.com
 ait.org.tw
@@ -2940,6 +2941,7 @@ old-cat.net
 old.honeynet.org
 old.nabble.com
 olivegarden.com
+oloadcdn.net
 olumpo.com
 olx.com.ve
 olx.ph
@@ -2966,6 +2968,7 @@ open.com.hk
 opendemocracy.net
 openid.net
 openleaks.org
+openload.co
 openvpn.net
 openwall.com
 openwebster.com
@@ -2986,6 +2989,7 @@ osaka69.com
 osfoora.com
 osikko.jp
 osmdroid.net
+oss.sonatype.org
 ostraining.com
 ottawasun.com
 otto.de
@@ -3320,6 +3324,9 @@ religioustolerance.org
 renminbao.com
 rense.com
 renyurenquan.org
+repo.scala-sbt.org
+repo.typesafe.com
+repo1.maven.org
 research.jmsc.hku.hk
 ressim.net
 retaildesignblog.net
@@ -4823,3 +4830,4 @@ zuobiao.me
 zuola.com
 zvereff.com
 zyzc9.com
+zzcartoon.com
