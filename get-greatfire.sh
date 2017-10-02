@@ -24,3 +24,4 @@ awk '$2>='"$Threshold"' {print ""$1"" }'\
 done
 
 cat $Output | xargs ./updater.py -a
+python3 ./find_redundant.py | xargs ./updater.py -d
