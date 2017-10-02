@@ -11,15 +11,27 @@ if __name__ == "__main__":
         help='Add one or more new domain(s) (implies -s)',
     )
     parser.add_argument(
+        '-d', '--delete',
+        metavar="DOMAIN",
+        nargs="+",
+        help='Remove one or more old domain(s) (implies -s)',
+    )
+    parser.add_argument(
         '-s', '--sort',
         action='store_true',
         default=True,
         help='Sort the list (default action)',
     )
+    parser.add_argument(
+        '-f', '--file',
+        nargs=1,
+        default=["domains.txt"],
+        help="Specify the file to update (domains.txt by default)",
+    )
 
     options = parser.parse_args()
 
-    with open("domains.txt") as f:
+    with open(options.file[0]) as f:
         lines = list(f)
 
     if options.add:
@@ -33,8 +45,19 @@ if __name__ == "__main__":
                 print("New domain added: " + domain)
                 lines.append(new_line)
 
+    if options.delete:
+        options.sort = True
+
+        for domain in options.delete:
+            target_line = "%s\n" % domain
+            if target_line not in lines:
+                print("Failed to remove domain " + domain + ": not found.")
+            else:
+                print("Domain removed: " + domain)
+                lines.remove(target_line)
+
     if options.sort:
         lines.sort(key=lambda x: x.lstrip("#"))
 
-    with open("domains.txt", "w") as f:
-        f.write(''.join(filter(lambda line: line.strip(), lines))) 
+    with open(options.file[0], "w") as f:
+        f.write(''.join(filter(lambda line: line.strip(), lines)))
