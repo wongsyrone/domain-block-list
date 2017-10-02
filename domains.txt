@@ -550,6 +550,7 @@ bowenpress.com
 box.com
 box.net
 boxcdn.net
+boxlocalhost.com
 boxpn.com
 boxun.com
 boxun.tv
