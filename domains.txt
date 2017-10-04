@@ -4435,9 +4435,6 @@ uproxy.org
 upwill.org
 ur7s.com
 urbanoutfitters.com
-url/279946
-url/45645
-url/69043
 urlborg.com
 urlparser.com
 us.to
@@ -4470,7 +4467,6 @@ uygur.org
 uymaarip.com
 uyttt.com
 v-state.org
-v2ex.com
 v2ray.com
 v70.us
 v7976888.info
