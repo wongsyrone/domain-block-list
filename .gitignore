@@ -1,5 +1,6 @@
 # generated file
 *.conf
 greatfire.*
+greatfire-domains*
 # temp files
 *~

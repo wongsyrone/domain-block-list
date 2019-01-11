@@ -25,11 +25,13 @@ import requests
 # Configure them if set to 'True'
 UseProxy = False
 
-# Big page count is determined by DefaultMaxPageCount
-GetAllPagesEvenIfWeHaveBigPageCount = True
+# some default values can be overwritten
 
-DefaultMaxPageCount = 20
+# Big page count is determined by DefaultMaxPageCount
+DefaultGetAllPagesEvenIfWeHaveBigPageCount = False
+DefaultMaxPageCount = 100
 DefaultBlockThreshold = 80
+
 DomainListFileName = 'greatfire-domains.txt'
 
 if UseProxy:
@@ -57,7 +59,7 @@ domainPattern = re.compile(
 
 # for page count
 # max length of digits from backwards
-hrefPageParamPattern = re.compile('\d+$')
+hrefPageParamPattern = re.compile(r'\d+$')
 
 domainDict = {}
 
@@ -124,7 +126,7 @@ def get_page_content(url, pageIndex, proxies):
         return None
 
 
-def do_url(url, proxies):
+def do_url(url, proxies, getAllPagesEvenIfWeHaveBigPageCount=DefaultGetAllPagesEvenIfWeHaveBigPageCount, maxPageCount=DefaultMaxPageCount):
     """
     fetch, parse and populate blocked domain list
     :param url:
@@ -135,13 +137,14 @@ def do_url(url, proxies):
     if tmpDict is None:
         print("fail to get first page")
         raise ConnectionError
-    total_page_count = tmpDict['pageCount']
+    last_page_num = tmpDict['pageCount']
+    total_page_count = last_page_num + 1
     # the actual page one (it doesn't need ?page=<num> parameter)
     html = tmpDict['rawHTML']
     populate_domain_blockPercent(html)
     # get page range from the actual page two
-    if not GetAllPagesEvenIfWeHaveBigPageCount and total_page_count > DefaultMaxPageCount:
-        pageRange = range(1, DefaultMaxPageCount)
+    if not getAllPagesEvenIfWeHaveBigPageCount and total_page_count > maxPageCount:
+        pageRange = range(1, maxPageCount)
     else:
         # only when we specify we should fetch all pages or we have only a few to fetch
         pageRange = range(1, total_page_count)
@@ -172,9 +175,9 @@ def write_file(content):
 
 try:
     # download and populate mapping dictionary
-    do_url(AlexaTop1000URL, myProxies)
+    do_url(AlexaTop1000URL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
     do_url(DomainsURL, myProxies)
-    do_url(BlockedURL, myProxies)
+    do_url(BlockedURL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
 
     # handle threshold
     filteredDict = {domainName: blockPercent for domainName, blockPercent in domainDict.items() if
@@ -185,7 +188,10 @@ try:
     # handle invalid domains
     validDomainResultList = [item for item in resultList if is_valid_domain(item)]
 
+    # to lower
+    lowerValidDomainResultList = [item.lower() for item in validDomainResultList]
+
     # write file
-    write_file('\n'.join(validDomainResultList))
+    write_file('\n'.join(lowerValidDomainResultList))
 except:
     traceback.print_exc(file=sys.stdout)
