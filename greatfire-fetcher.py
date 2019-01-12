@@ -59,7 +59,7 @@ domainPattern = re.compile(
 
 # for page count
 # max length of digits from backwards
-hrefPageParamPattern = re.compile(r'\d+$')
+hrefPageParamPattern = re.compile(r'(?<=page=)\d+')
 
 domainDict = {}
 
