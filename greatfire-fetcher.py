@@ -79,7 +79,7 @@ def populate_domain_blockPercent(rawHTML):
     for entry in entries:
         domainName = entry.text
         # remove '%' sign
-        blockPercent = int(entry.next_sibling.next_sibling.text[:-1])
+        blockPercent = int(entry.next_sibling.next_sibling.text.strip()[:-1])
         domainDict[domainName] = blockPercent
 
 
