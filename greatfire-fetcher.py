@@ -126,7 +126,8 @@ def get_page_content(url, pageIndex, proxies):
         return None
 
 
-def do_url(url, proxies, getAllPagesEvenIfWeHaveBigPageCount=DefaultGetAllPagesEvenIfWeHaveBigPageCount, maxPageCount=DefaultMaxPageCount):
+def do_url(url, proxies, getAllPagesEvenIfWeHaveBigPageCount=DefaultGetAllPagesEvenIfWeHaveBigPageCount,
+           maxPageCount=DefaultMaxPageCount):
     """
     fetch, parse and populate blocked domain list
     :param url:
@@ -173,25 +174,26 @@ def write_file(content):
 # PROCEDURES
 # ===============================================================
 
-try:
-    # download and populate mapping dictionary
-    do_url(AlexaTop1000URL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
-    do_url(DomainsURL, myProxies)
-    do_url(BlockedURL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
+if __name__ == '__main__':
+    try:
+        # download and populate mapping dictionary
+        do_url(AlexaTop1000URL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
+        do_url(DomainsURL, myProxies)
+        do_url(BlockedURL, myProxies, getAllPagesEvenIfWeHaveBigPageCount=True)
 
-    # handle threshold
-    filteredDict = {domainName: blockPercent for domainName, blockPercent in domainDict.items() if
-                    blockPercent >= DefaultBlockThreshold}
+        # handle threshold
+        filteredDict = {domainName: blockPercent for domainName, blockPercent in domainDict.items() if
+                        blockPercent >= DefaultBlockThreshold}
 
-    resultList = list(filteredDict.keys())
+        resultList = list(filteredDict.keys())
 
-    # handle invalid domains
-    validDomainResultList = [item for item in resultList if is_valid_domain(item)]
+        # handle invalid domains
+        validDomainResultList = [item for item in resultList if is_valid_domain(item)]
 
-    # to lower
-    lowerValidDomainResultList = [item.lower() for item in validDomainResultList]
+        # to lower
+        lowerValidDomainResultList = [item.lower() for item in validDomainResultList]
 
-    # write file
-    write_file('\n'.join(lowerValidDomainResultList))
-except:
-    traceback.print_exc(file=sys.stdout)
+        # write file
+        write_file('\n'.join(lowerValidDomainResultList))
+    except:
+        traceback.print_exc(file=sys.stdout)
