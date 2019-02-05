@@ -77,10 +77,12 @@ def populate_domain_blockPercent(rawHTML):
     # table layout:
     #   domain-name  date  block-percent  tags
     for entry in entries:
-        domainName = entry.text
-        # remove '%' sign
-        blockPercent = int(entry.next_sibling.next_sibling.text.strip()[:-1])
-        domainDict[domainName] = blockPercent
+        domainName = entry.text.strip()
+        blockPercentElem = entry.next_sibling.next_sibling
+        if "blocked" in blockPercentElem["class"]:
+            # remove '%' sign
+            blockPercent = int(blockPercentElem.text.strip()[:-1])
+            domainDict[domainName] = blockPercent
 
 
 def get_first_page_and_count(url, proxies):
